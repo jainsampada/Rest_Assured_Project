@@ -99,7 +99,7 @@ public class TC001_Get_All_Customers extends TestBase {
 		String contentLength=response.header("Content-Length");
 		logger.info("Content Length is:"+contentLength);
 		
-		if(Integer.parseInt(contentLength)<15977)
+		if(Integer.parseInt(contentLength)<15000)
 			logger.warn("Content Length is less then 15000");
 		
 		Assert.assertTrue(Integer.parseInt(contentLength)<15000);

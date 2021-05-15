@@ -2,100 +2,100 @@
 <testng-results skipped="0" failed="0" ignored="2" total="19" passed="17">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="21821" started-at="2021-05-04T20:47:50 IST" finished-at="2021-05-04T20:48:11 IST">
+  <suite name="Suite" duration-ms="15834" started-at="2021-05-15T20:23:44 IST" finished-at="2021-05-15T20:24:00 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="21821" started-at="2021-05-04T20:47:50 IST" finished-at="2021-05-04T20:48:11 IST">
+    <test name="Test" duration-ms="15834" started-at="2021-05-15T20:23:44 IST" finished-at="2021-05-15T20:24:00 IST">
       <class name="com.customerapi.Testcases.TC002_Get_Single_Customer">
-        <test-method status="PASS" signature="Get_All_Customers()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="Get_All_Customers" is-config="true" duration-ms="1104" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="Get_All_Customers()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="Get_All_Customers" is-config="true" duration-ms="1634" started-at="2021-05-15T20:23:57 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Get_All_Customers -->
-        <test-method status="PASS" signature="checkContentLength()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkContentLength" duration-ms="4" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkContentLength()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkContentLength" duration-ms="3" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkContentLength -->
-        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkContentType" duration-ms="4" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkContentType" duration-ms="3" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkContentType -->
-        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkResponseBody" duration-ms="5" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkResponseBody" duration-ms="3" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseBody -->
-        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkResponseTime" duration-ms="4" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkResponseTime" duration-ms="4" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseTime -->
-        <test-method status="PASS" signature="checkServerType()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkServerType" duration-ms="4" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkServerType()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkServerType" duration-ms="3" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkServerType -->
-        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkStatusCode" duration-ms="5" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkStatusCode" duration-ms="2" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusCode -->
-        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkStatusLine" duration-ms="6" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="checkStatusLine" duration-ms="3" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusLine -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="teardown" is-config="true" duration-ms="6" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:08 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.customerapi.Testcases.TC002_Get_Single_Customer@10a035a0]" name="teardown" is-config="true" duration-ms="7" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.customerapi.Testcases.TC002_Get_Single_Customer -->
       <class name="com.customerapi.Testcases.TC001_Get_All_Customers">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="Setup" is-config="true" duration-ms="512" started-at="2021-05-04T20:47:49 IST" finished-at="2021-05-04T20:47:50 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="Setup" is-config="true" duration-ms="294" started-at="2021-05-15T20:23:43 IST" finished-at="2021-05-15T20:23:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Get_All_Customers()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="Get_All_Customers" is-config="true" duration-ms="15706" started-at="2021-05-04T20:47:50 IST" finished-at="2021-05-04T20:48:06 IST">
+        <test-method status="PASS" signature="Get_All_Customers()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="Get_All_Customers" is-config="true" duration-ms="11820" started-at="2021-05-15T20:23:44 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Get_All_Customers -->
-        <test-method status="PASS" signature="checkContentLength()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkContentLength" duration-ms="37" started-at="2021-05-04T20:48:06 IST" finished-at="2021-05-04T20:48:06 IST">
+        <test-method status="PASS" signature="checkContentLength()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkContentLength" duration-ms="81" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkContentLength -->
-        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkContentType" duration-ms="6" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkContentType" duration-ms="20" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkContentType -->
-        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkResponseBody" duration-ms="104" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkResponseBody" duration-ms="65" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseBody -->
-        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkResponseTime" duration-ms="67" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkResponseTime" duration-ms="6" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseTime -->
-        <test-method status="PASS" signature="checkServerType()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkServerType" duration-ms="6" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkServerType()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkServerType" duration-ms="4" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkServerType -->
-        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkStatusCode" duration-ms="6" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkStatusCode" duration-ms="4" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusCode -->
-        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkStatusLine" duration-ms="9" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="checkStatusLine" duration-ms="68" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusLine -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="teardown" is-config="true" duration-ms="2" started-at="2021-05-04T20:48:07 IST" finished-at="2021-05-04T20:48:07 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.customerapi.Testcases.TC001_Get_All_Customers@1786f9d5]" name="teardown" is-config="true" duration-ms="1" started-at="2021-05-15T20:23:56 IST" finished-at="2021-05-15T20:23:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.customerapi.Testcases.TC001_Get_All_Customers -->
       <class name="com.customerapi.Testcases.TC003_Add_Customer">
-        <test-method status="PASS" signature="Create_Customer()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="Create_Customer" duration-ms="3042" started-at="2021-05-04T20:48:08 IST" finished-at="2021-05-04T20:48:11 IST">
+        <test-method status="PASS" signature="Create_Customer()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="Create_Customer" duration-ms="1265" started-at="2021-05-15T20:23:58 IST" finished-at="2021-05-15T20:23:59 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Create_Customer -->
-        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="checkResponseTime" duration-ms="3" started-at="2021-05-04T20:48:11 IST" finished-at="2021-05-04T20:48:11 IST">
+        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="checkResponseTime" duration-ms="8" started-at="2021-05-15T20:23:59 IST" finished-at="2021-05-15T20:23:59 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseTime -->
-        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="checkStatusCode" duration-ms="3" started-at="2021-05-04T20:48:11 IST" finished-at="2021-05-04T20:48:11 IST">
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.customerapi.Testcases.TC003_Add_Customer@67b467e9]" name="checkStatusCode" duration-ms="10" started-at="2021-05-15T20:23:59 IST" finished-at="2021-05-15T20:24:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusCode -->
